@@ -147,6 +147,7 @@ def test_print_response_params(client):
     print(response.data)
     print("Printing response.json:")
     print(response.json)
+
 ```
 
 Now delete the code you just added as you don't need it in the test code!
